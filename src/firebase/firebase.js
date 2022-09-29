@@ -39,7 +39,6 @@ export const updateTodos = () => {
             if(change.type === "removed"){
                 console.log("removed", change.doc.data());
             }
-
         })
     })
 
