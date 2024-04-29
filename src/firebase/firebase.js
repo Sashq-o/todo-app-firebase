@@ -9,12 +9,12 @@ import { ref, onUnmounted, reactive } from "vue"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCAiFKWTlHNwjCDSGuJgCWKNWQwkPanPKk",
-  authDomain: "my-app-1f752.firebaseapp.com",
-  projectId: "my-app-1f752",
-  storageBucket: "my-app-1f752.appspot.com",
-  messagingSenderId: "1045257694503",
-  appId: "1:1045257694503:web:f6aeb0b6548b5019600d02"
+  apiKey: "hogehoge",
+  authDomain: "hogehoge",
+  projectId: "hogehoge",
+  storageBucket: "hogehoge",
+  messagingSenderId: "hogehoge",
+  appId: "hogehoge"
 };
 
 // Initialize Firebase
